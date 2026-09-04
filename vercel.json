@@ -10,11 +10,15 @@
   "rewrites": [
     {
       "source": "/presentation2/text.php",
-      "destination": "/presentation2/text.php/index.html"
+      "destination": "/presentation2/read.html"
     },
     {
       "source": "/presentation2/text.php/",
-      "destination": "/presentation2/text.php/index.html"
+      "destination": "/presentation2/read.html"
+    },
+    {
+      "source": "/presentation2/read",
+      "destination": "/presentation2/read.html"
     },
     {
       "source": "/discount2/index.php/",
